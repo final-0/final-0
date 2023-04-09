@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p><img src="https://github-readme-stats.vercel.app/api?username=final-0&theme=transparent"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=final-0&layout=compact&theme=transparent"/></p>
-<img src="https://github-profile-trophy.vercel.app/?username=final-0"/>
+<p><img src="https://github-profile-trophy.vercel.app/?username=final-0"/></p>
 
 <!--
 **final-0/final-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
