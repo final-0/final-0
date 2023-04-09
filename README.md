@@ -1,4 +1,5 @@
 ### Hi there 👋
+(https://github-profile-trophy.vercel.app/?username=final-0)
 
 <!--
 **final-0/final-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
