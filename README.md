@@ -1,7 +1,12 @@
 ### Hi there 👋
 
 ### reserch topic
-video coding<br>deep learning<br>object detection<br>super-resolution<br>  
+video coding&emsp;deep learning<br>object detection<br>super-resolution<br>  
+&emsp; high resolution image-size : 256x256 pixel <br>
+&emsp; low resolution image-size : 64x64 pixel <br>
+&emsp; training epoch : 1 <br>
+&emsp; number of images for training : 1000 <br>
+&emsp; number of images for evaluation : 100 <br>
 <p><img src="https://github-readme-stats.vercel.app/api?username=final-0&theme=transparent"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=final-0&layout=compact&theme=transparent"/></p><br>
 
