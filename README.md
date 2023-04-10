@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-### research topic
+### Research Topic
 #### Video Coding,&emsp;Deep Learning,&emsp;Object Detection,&emsp;Super Resolution,&emsp;Video Coding for Machines
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=final-0&theme=transparent"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=final-0&layout=compact&theme=transparent"/></p><br>
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 <!--
 **final-0/final-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
