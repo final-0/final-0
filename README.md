@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### research topic
-#### video coding,&emsp;deep learning,&emsp;object detection,&emsp;super resolution,&emsp;video coding for machines
+#### Video Coding,&emsp;Deep Learning,&emsp;Object Detection,&emsp;Super Resolution,&emsp;Video Coding for Machines
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=final-0&theme=transparent"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=final-0&layout=compact&theme=transparent"/></p><br>
