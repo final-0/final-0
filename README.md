@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### <span style="color: red; ">research topic</span>
+### research topic
 #### video coding,&emsp;deep learning,&emsp;object detection,&emsp;super resolution,&emsp;video coding for machines
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=final-0&theme=transparent"/></p>
