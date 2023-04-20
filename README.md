@@ -2,10 +2,10 @@
 
 ### Research Topic
 #### Deep Learning
-Image Recognition : Object Detection<br>
-Image Generation : Supre Resolution, Denoising<br>
+&emsp; Image Recognition &emsp;:&emsp; Object Detection<br>
+&emsp; Image Generation &emsp;:&emsp; Supre Resolution, Denoising<br>
 #### Video Coding
-video coding for machines<br>
+&emsp; Video Coding for Machines<br>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=final-0&theme=transparent"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=final-0&layout=compact&theme=transparent"/></p><br>
