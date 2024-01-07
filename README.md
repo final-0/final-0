@@ -8,11 +8,11 @@
 &emsp; Video Coding for Machines<br>
 
 ### Achievements
-・Object Detection Method for Drone Videos Using Optical Flow
-・Image Coding for Machines with Object Region Learning
-・VVC Extension Scheme for Object Detection Using Contrast Reduction
-・Accuracy Improvement of Object Detection in VVC Coded Video Using YOLO-v7 Features
-・Super Resolution for QR Code Images
+・Object Detection Method for Drone Videos Using Optical Flow<br>
+・Image Coding for Machines with Object Region Learning<br>
+・VVC Extension Scheme for Object Detection Using Contrast Reduction<br>
+・Accuracy Improvement of Object Detection in VVC Coded Video Using YOLO-v7 Features<br>
+・Super Resolution for QR Code Images<br>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=final-0&theme=transparent"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=final-0&layout=compact&theme=transparent"/></p><br>
