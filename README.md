@@ -7,12 +7,12 @@
 #### Video Coding
 &emsp; Video Coding for Machines<br>
 
-### Achievements
-・Object Detection Method for Drone Videos Using Optical Flow<br>
-・Image Coding for Machines with Object Region Learning<br>
-・VVC Extension Scheme for Object Detection Using Contrast Reduction<br>
-・Accuracy Improvement of Object Detection in VVC Coded Video Using YOLO-v7 Features<br>
-・Super Resolution for QR Code Images<br>
+###　Presentations at International Conferences (to be announced)
+・Object Detection Method for Drone Videos Using Optical Flow (IEVC 2024)<br>
+・Image Coding for Machines with Object Region Learning (IEEE CCNC 2024)<br>
+・VVC Extension Scheme for Object Detection Using Contrast Reduction (IEEE GCCE 2023)<br>
+・Accuracy Improvement of Object Detection in VVC Coded Video Using YOLO-v7 Features (IEEE IICAIET 2023)<br>
+・Super Resolution for QR Code Images (IEEE GCCE 2022)<br>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=final-0&theme=transparent"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=final-0&layout=compact&theme=transparent"/></p><br>
