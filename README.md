@@ -7,7 +7,7 @@
 #### Video Coding
 &emsp; Video Coding for Machines<br>
 
-###　Presentations at International Conferences (to be announced)
+### Presentations at International Conferences (to be announced)
 ・Object Detection Method for Drone Videos Using Optical Flow (IEVC 2024)<br>
 ・Image Coding for Machines with Object Region Learning (IEEE CCNC 2024)<br>
 ・VVC Extension Scheme for Object Detection Using Contrast Reduction (IEEE GCCE 2023)<br>
