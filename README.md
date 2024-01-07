@@ -5,7 +5,7 @@
 &emsp; Image Recognition &emsp;:&emsp; Object Detection<br>
 &emsp; Image Generation &emsp;:&emsp; Supre Resolution, Denoising<br>
 #### Video Coding
-&emsp; Video Coding for Machines<br>
+&emsp; Video/Image Coding for Machines<br>
 
 ### Presentations at International Conferences (to be announced)
 ・Object Detection Method for Drone Videos Using Optical Flow (IEVC 2024)<br>
