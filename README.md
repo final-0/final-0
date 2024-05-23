@@ -18,11 +18,14 @@
 <br>
 ・Image Coding for Machines with Object Region Learning (IEEE CCNC 2024)<br>
 &emsp;[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10454864),&emsp;[arXiv](https://arxiv.org/abs/2308.13984)<br>
-・VVC Extension Scheme for Object Detection Using Contrast Reduction ([IEEE GCCE 2023](https://www.ieee-gcce.org/2023/index.html))<br>
+・VVC Extension Scheme for Object Detection Using Contrast Reduction 
+([IEEE GCCE 2023](https://www.ieee-gcce.org/2023/index.html))<br>
 &emsp;[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10315373),&emsp;[arXiv](https://arxiv.org/abs/2305.18782)<br>
-・Accuracy Improvement of Object Detection in VVC Coded Video Using YOLO-v7 Features (IEEE IICAIET 2023)<br>
+・Accuracy Improvement of Object Detection in VVC Coded Video Using YOLO-v7 Features 
+([IEEE IICAIET 2023](http://iicaiet.ieeesabah.org/iicaiet2023.html))<br>
 &emsp;[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10291646),&emsp;[arXiv](https://arxiv.org/abs/2304.00689)<br>
-・Super Resolution for QR Code Images ([IEEE GCCE 2022](https://www.ieee-gcce.org/2022/))<br>
+・Super Resolution for QR Code Images 
+([IEEE GCCE 2022](https://www.ieee-gcce.org/2022/))<br>
 &emsp;[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10014154)<br>
 
 ---
