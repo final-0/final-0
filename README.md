@@ -9,10 +9,10 @@
 
 ### Presentations at International Conferences (to be announced)
 ・Object Detection Method for Drone Videos Using Optical Flow (IEVC 2024)<br>
-&emsp; [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10291646),[arXiv](https://arxiv.org/abs/2304.00689)<br>
 ・Image Coding for Machines with Object Region Learning (IEEE CCNC 2024)<br>
 ・VVC Extension Scheme for Object Detection Using Contrast Reduction (IEEE GCCE 2023)<br>
 ・Accuracy Improvement of Object Detection in VVC Coded Video Using YOLO-v7 Features (IEEE IICAIET 2023)<br>
+&emsp; [![IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10291646)],[![arXiv](https://arxiv.org/abs/2304.00689)]<br>
 ・Super Resolution for QR Code Images (IEEE GCCE 2022)<br>
 
 <br>
