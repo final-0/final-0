@@ -15,6 +15,7 @@
 ・Refining Coded Image in Human Vision Layer Using CNN-Based Post-Processing<br>
 &emsp;[arXiv](https://arxiv.org/abs/2405.11894)<br>
 ・Object Detection Method for Drone Videos Using Optical Flow (IEVC 2024)<br>
+<br>
 ・Image Coding for Machines with Object Region Learning (IEEE CCNC 2024)<br>
 &emsp;[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10454864),&emsp;[arXiv](https://arxiv.org/abs/2308.13984)<br>
 ・VVC Extension Scheme for Object Detection Using Contrast Reduction (IEEE GCCE 2023)<br>
