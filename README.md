@@ -7,7 +7,7 @@
 &emsp; Image/Video Coding for Machines<br>
 
 ---
-### Presentations at International Conferences (to be announced)
+### Presentations at International Conferences (1st author)
 ・Image Coding for Machines with Edge Information Learning Using Segment Anything<br>
 &emsp;[arXiv](https://arxiv.org/abs/2403.04173)<br>
 ・Scalable Image Coding for Humans and Machines Using Feature Fusion Network<br>
