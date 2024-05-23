@@ -1,13 +1,11 @@
 
 ### Research Topic
+[Google Scholar](https://scholar.google.com/citations?user=14XgxpcAAAAJ)<br> 
 #### Deep Learning
 &emsp; Image Recognition &emsp;:&emsp; Object Detection, Segmentation<br>
 &emsp; Image Generation &emsp;:&emsp; Supre Resolution, Denoising<br>
 #### Image/Video Coding
 &emsp; Image/Video Coding for Machines<br>
-
-###--<br>
-[Google Scholar](https://scholar.google.com/citations?user=14XgxpcAAAAJ)<br> 
 
 ### Presentations at International Conferences (to be announced)
 ・Object Detection Method for Drone Videos Using Optical Flow (IEVC 2024)<br>
