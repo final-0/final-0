@@ -6,7 +6,7 @@
 &emsp; Image Generation &emsp;:&emsp; Supre Resolution, Denoising<br>
 #### Image/Video Coding
 &emsp; Image/Video Coding for Machines<br>
-
+---
 ### Presentations at International Conferences (to be announced)
 ・Image Coding for Machines with Edge Information Learning Using Segment Anything<br>
 &emsp;[arXiv](https://arxiv.org/abs/2403.04173)<br>
