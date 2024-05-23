@@ -6,7 +6,6 @@
 #### Deep Learning
 &emsp; Image Recognition &emsp;:&emsp; Object Detection, Segmentation<br>
 &emsp; Image Generation &emsp;:&emsp; Supre Resolution, Denoising<br>
-#### Image/Video Coding
 &emsp; Image/Video Coding for Machines<br>
 
 ---
