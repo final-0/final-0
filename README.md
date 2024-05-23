@@ -6,9 +6,9 @@
 #### Image/Video Coding
 &emsp; Image/Video Coding for Machines<br>
 
-###--
-Google Scholar : 
-arXiv : 
+###--<br>
+Google Scholar : https://scholar.google.com/citations?user=14XgxpcAAAAJ<br> 
+arXiv : <br>
 
 ### Presentations at International Conferences (to be announced)
 ・Object Detection Method for Drone Videos Using Optical Flow (IEVC 2024)<br>
