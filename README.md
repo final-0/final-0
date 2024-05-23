@@ -3,7 +3,7 @@
 [Google Scholar](https://scholar.google.com/citations?user=14XgxpcAAAAJ)<br> 
 
 ---
-#### Deep Learning
+### Deep Learning
 &emsp; Image Recognition &emsp;:&emsp; Object Detection, Segmentation<br>
 &emsp; Image Generation &emsp;:&emsp; Supre Resolution, Denoising<br>
 &emsp; Image/Video Coding for Machines<br>
