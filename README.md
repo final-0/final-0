@@ -29,10 +29,12 @@
 ・Super Resolution for QR Code Images 
 ([IEEE GCCE 2022](https://www.ieee-gcce.org/2022/))<br>
 &emsp;[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10014154)<br>
+
 ### Presentations at International Conferences (2nd author)
 ・Data Augmentation with 3D-rendered Models for Livestock Recognition Using Drone Footage
 ([IEVC 2024](https://www.iieej.org/en/ievc2024/))<br>
 ・
+
 ---
 <br>
 
