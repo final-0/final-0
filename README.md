@@ -33,7 +33,11 @@
 ### Presentations at International Conferences (2nd author)
 ・Data Augmentation with 3D-rendered Models for Livestock Recognition Using Drone Footage
 ([IEVC 2024](https://www.iieej.org/en/ievc2024/))<br>
-・
+<br>
+・Accuracy Consistency of Object Detection With Contrast Reduction by Pixel Value Limitation
+([IEEE GCCE 2023](https://www.ieee-gcce.org/2023/index.html))<br>
+&emsp;[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10315359)<br>
+
 
 ---
 <br>
