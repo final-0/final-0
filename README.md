@@ -34,9 +34,14 @@
 ・Data Augmentation with 3D-rendered Models for Livestock Recognition Using Drone Footage
 ([IEVC 2024](https://www.iieej.org/en/ievc2024/))<br>
 <br>
+・Future Object Detection Using Frame Prediction
+([IEEE GCCE 2023](https://www.ieee-gcce.org/2023/index.html))<br>
+&emsp;[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10315434)<br>
 ・Accuracy Consistency of Object Detection With Contrast Reduction by Pixel Value Limitation
 ([IEEE GCCE 2023](https://www.ieee-gcce.org/2023/index.html))<br>
 &emsp;[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10315359)<br>
+・Novel CNN approach for video prediction based on FitVid
+([IWAIT 2022](https://iwait.online/))<br>
 
 
 ---
