@@ -48,7 +48,20 @@
 <br>
 
 ---
+
+
+### Presentations at International Conferences (others)
+coming soon<br>
+
 ---
+---
+
+###Award
+coming soon<br>
+
+---
+---
+
 <br>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=final-0&theme=transparent"/></p>
