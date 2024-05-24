@@ -44,7 +44,8 @@
 ([IEEE GCCE 2023](https://www.ieee-gcce.org/2023/index.html))<br>
 &emsp;[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10315359)<br>
 ・Novel CNN approach for video prediction based on FitVid
-([IWAIT 2022](https://iwait.online/))<br>
+([IWAIT 2023](https://iwait.online/))<br>
+<br>
 
 ---
 ---
@@ -61,17 +62,3 @@
 
 ### Software
 #### VTM
-<!--
-**final-0/final-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
