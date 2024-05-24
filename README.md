@@ -7,7 +7,6 @@
 &emsp; Image/Video Coding for Machines<br>
 
 ---
----
 ### Presentations at International Conferences (1st author)
 ・Image Coding for Machines with Edge Information Learning Using Segment Anything<br>
 &emsp;[arXiv](https://arxiv.org/abs/2403.04173)<br>
@@ -31,7 +30,6 @@
 ([IEEE GCCE 2022](https://www.ieee-gcce.org/2022/))<br>
 &emsp;[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10014154)<br>
 
-<hr style="border: 2px dotted #000;">
 
 ### Presentations at International Conferences (2nd author)
 ・Data Augmentation with 3D-rendered Models for Livestock Recognition Using Drone Footage
@@ -47,19 +45,14 @@
 ([IWAIT 2023](https://iwait.online/))<br>
 <br>
 
----
-
-
 ### Presentations at International Conferences (others)
 coming soon<br>
 
----
 ---
 
 ### Award
 coming soon<br>
 
----
 ---
 
 ### Career
