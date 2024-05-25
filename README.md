@@ -1,12 +1,17 @@
+## <div align="center">Research Topic</div>
 
-### Research Topic
+<div align="center">
+  
 [Google Scholar](https://scholar.google.com/citations?user=14XgxpcAAAAJ)<br> 
+
+</div>
 
 &emsp; Image Recognition &emsp;:&emsp; Object Detection, Segmentation<br>
 &emsp; Image Generation &emsp;:&emsp; Supre Resolution, Denoising<br>
 &emsp; Image/Video Coding for Machines<br>
 
 ---
+## <div align="center">Achievement</div>
 ### Presentations at International Conferences (1st author)
 ・Image Coding for Machines with Edge Information Learning Using Segment Anything<br>
 &emsp;[arXiv](https://arxiv.org/abs/2403.04173)<br>
