@@ -82,6 +82,8 @@ coming soon<br>
 coming soon<br>
 
 ## <div align="center">Co-Authors</div>
+- (https://github.com/rook86)
+- (https://github.com/nykie738)
 <br>
 <!--
 <p><img src="https://github-readme-stats.vercel.app/api?username=final-0&theme=transparent"/></p>
