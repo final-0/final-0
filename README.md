@@ -55,12 +55,12 @@ coming soon<br>
 
 ---
 
-### Award
+## <div align="center">Award</div>
 coming soon<br>
 
 ---
 
-### Career
+## <div align="center">Experience & Education</div>
 coming soon<br>
 
 <br>
