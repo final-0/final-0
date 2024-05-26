@@ -11,8 +11,8 @@
 &emsp; Image/Video Coding for Machines<br>
 
 ---
-## <div align="center">Achievement</div>
-### Presentations at International Conferences (1st author)
+## <div align="center">Achievement (International Conferences)</div>
+### 1st author
 ・Image Coding for Machines with Edge Information Learning Using Segment Anything<br>
 &emsp;[arXiv](https://arxiv.org/abs/2403.04173)<br>
 ・Scalable Image Coding for Humans and Machines Using Feature Fusion Network<br>
@@ -36,7 +36,7 @@
 &emsp;[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10014154)<br>
 
 
-### Presentations at International Conferences (2nd author)
+### 2nd author
 ・Data Augmentation with 3D-rendered Models for Livestock Recognition Using Drone Footage
 ([IEVC 2024](https://www.iieej.org/en/ievc2024/))<br>
 <br>
@@ -50,16 +50,18 @@
 ([IWAIT 2023](https://iwait.online/))<br>
 <br>
 
-### Presentations at International Conferences (others)
+### others
 coming soon<br>
 
-### Presentations at Domestic Conferences (1st author)
+## <div align="center">Achievement (Domestic Conferences, JP)</div>
+
+### 1st author
 coming soon<br>
 
-### Presentations at Domestic Conferences (2nd author)
+### 2nd author
 coming soon<br>
 
-### Presentations at Domestic Conferences (others)
+### others
 coming soon<br>
 
 ---
