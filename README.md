@@ -56,10 +56,17 @@ coming soon<br>
 ## <div align="center">Achievement (Domestic Conferences, JP)</div>
 
 ### 1st author
-coming soon<br>
+・符号化雑音環境下における物体検出精度の改善手法
+([PCSJ2022](https://www.pcsj-imps.org/archive/2022.html))<br>
+<br>
+・VVC と CNN を組み合わせた YOLO-v7 のための映像符号化手法
+([IEICE general conf. 2023](https://www.ieice-taikai.jp/2023general/jpn/index.html))<br>
+<br>
 
 ### 2nd author
-coming soon<br>
+・YOLOV を用いた物体予測検出の一検討
+([IEICE general conf. 2023](https://www.ieice-taikai.jp/2023general/jpn/index.html))<br>
+<br>
 
 ### others
 coming soon<br>
@@ -74,6 +81,7 @@ coming soon<br>
 ## <div align="center">Experience & Education</div>
 coming soon<br>
 
+## <div align="center">Co-Authors</div>
 <br>
 <!--
 <p><img src="https://github-readme-stats.vercel.app/api?username=final-0&theme=transparent"/></p>
