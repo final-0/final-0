@@ -14,11 +14,11 @@
 ## <div align="center">Achievement (International Conferences)</div>
 ### 1st author
 ・Image Coding for Machines with Edge Information Learning Using Segment Anything<br>
-&emsp;[arXiv](https://arxiv.org/abs/2403.04173)<br>
+&emsp;[arXiv](https://arxiv.org/abs/2403.04173) (under review)<br>
 ・Scalable Image Coding for Humans and Machines Using Feature Fusion Network<br>
-&emsp;[arXiv](https://arxiv.org/abs/2405.09152)<br>
+&emsp;[arXiv](https://arxiv.org/abs/2405.09152) (under review)<br>
 ・Refining Coded Image in Human Vision Layer Using CNN-Based Post-Processing<br>
-&emsp;[arXiv](https://arxiv.org/abs/2405.11894)<br>
+&emsp;[arXiv](https://arxiv.org/abs/2405.11894) (under review)<br>
 ・Object Detection Method for Drone Videos Using Optical Flow 
 ([IEVC 2024](https://www.iieej.org/en/ievc2024/))<br>
 <br>
