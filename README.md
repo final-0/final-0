@@ -79,7 +79,14 @@ coming soon<br>
 ---
 
 ## <div align="center">Experience & Education</div>
+[NICT](https://www.nict.go.jp/collabo/commission/B5Gsokushin/B5G_05101.html)
+
+---
+
+## <div align="center">Experience & Education</div>
 coming soon<br>
+
+---
 
 ## <div align="center">Co-Authors</div>
 - (https://github.com/rook86)
