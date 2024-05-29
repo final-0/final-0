@@ -78,12 +78,12 @@ coming soon<br>
 
 ---
 
-## <div align="center">Experience & Education</div>
+## <div align="center">Experience</div>
 [NICT](https://www.nict.go.jp/collabo/commission/B5Gsokushin/B5G_05101.html)
 
 ---
 
-## <div align="center">Experience & Education</div>
+## <div align="center">Education</div>
 coming soon<br>
 
 ---
