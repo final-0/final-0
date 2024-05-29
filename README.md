@@ -8,7 +8,7 @@
 
 &emsp; Image Recognition &emsp;:&emsp; Object Detection, Segmentation<br>
 &emsp; Image Generation &emsp;:&emsp; Supre Resolution, Denoising<br>
-&emsp; Image/Video Coding for Machines<br>
+&emsp; Image/Video Coding for Hmans and Machines<br>
 
 ---
 ## <div align="center">Achievement (International Conferences)</div>
