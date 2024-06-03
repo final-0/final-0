@@ -68,8 +68,6 @@ coming soon<br>
 ([IEICE general conf. 2023](https://www.ieice-taikai.jp/2023general/jpn/index.html))<br>
 <br>
 
-### others
-coming soon<br>
 
 ---
 
