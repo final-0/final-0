@@ -72,7 +72,7 @@ coming soon<br>
 ---
 
 ## <div align="center">Award</div>
-coming soon<br>
+- 早稲田大学 基幹理工学部 情報通信学科 賞
 
 ---
 
