@@ -13,8 +13,9 @@
 ---
 ## <div align="center">Achievement (International Conferences)</div>
 ### 1st author
-・Image Coding for Machines with Edge Information Learning Using Segment Anything<br>
-&emsp;[arXiv](https://arxiv.org/abs/2403.04173) (under review)<br>
+・Image Coding for Machines with Edge Information Learning Using Segment Anything
+([IEEE ICIP 2024](https://2024.ieeeicip.org/))<br>
+&emsp;[arXiv](https://arxiv.org/abs/2403.04173) <br>
 ・Scalable Image Coding for Humans and Machines Using Feature Fusion Network<br>
 &emsp;[arXiv](https://arxiv.org/abs/2405.09152) (under review)<br>
 ・Refining Coded Image in Human Vision Layer Using CNN-Based Post-Processing<br>
