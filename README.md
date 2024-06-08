@@ -85,7 +85,8 @@ coming soon<br>
 ---
 
 ## <div align="center">Education</div>
-coming soon<br>
+・早稲田大学 基幹理工学部 情報通信学科
+・早稲田大学大学院 基幹理工学研究科 情報理工・情報通信専攻
 
 ---
 
