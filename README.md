@@ -49,7 +49,7 @@
 &emsp;[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10315359)<br>
 ・Novel CNN approach for video prediction based on FitVid
 ([IWAIT 2023](https://iwait.online/))<br>
-<br>
+
 
 ### others
 ・Classification in Japanese Sign Language Based on Dynamic Facial Expressions<br>
@@ -57,7 +57,7 @@
 ・Integrating QR Code Characteristics Into Super-Resolution Method<br>
 &emsp;(under review)<br>
 
-## <div align="center">Achievement (Domestic Conferences, JP)</div>
+## <div align="center">Achievement (Domestic Conferences, Japan)</div>
 
 ### 1st author
 ・符号化雑音環境下における物体検出精度の改善手法
