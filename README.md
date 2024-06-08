@@ -52,7 +52,10 @@
 <br>
 
 ### others
-coming soon<br>
+・Classification in Japanese Sign Language Based on Dynamic Facial Expressions<br>
+(under review)<br>
+・Integrating QR Code Characteristics Into Super-Resolution Method<br>
+(under review)<br>
 
 ## <div align="center">Achievement (Domestic Conferences, JP)</div>
 
