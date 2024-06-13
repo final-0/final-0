@@ -67,8 +67,7 @@
 ([IEICE general conf. 2023](https://www.ieice-taikai.jp/2023general/jpn/index.html))<br>
 <br>
 ・画素値の動的変化に基づく動画像表現
-([ITE annual conv. 2024](https://www.ite.or.jp/annual/2024/))<br>
-(発表予定)<br>
+([ITE annual conv. 2024](https://www.ite.or.jp/annual/2024/))(発表予定)<br>
 <br>
 
 ### 2nd author
