@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[Google Scholar](https://scholar.google.com/citations?user=14XgxpcAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Takahiro-Shindo/153439569?sort=total-citations)<br> 
+[[Google Scholar](https://scholar.google.com/citations?user=14XgxpcAAAAJ)]&emsp;[[Semantic Scholar](https://www.semanticscholar.org/author/Takahiro-Shindo/153439569?sort=total-citations)]<br> 
 
 </div>
 
