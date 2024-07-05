@@ -86,6 +86,7 @@
 ## <div align="center">Acknowledgment</div>
 ・ [NICT](https://www.nict.go.jp/index.html)&emsp;(National Institute of Information and Communications Technology)<br>
 &emsp;「日米豪国際連携を通じた超カバレッジBeyond 5G無線通信・映像符号化標準化技術の研究開発」[採択番号05101](https://www.nict.go.jp/collabo/commission/B5Gsokushin/B5G_05101.html)<br>
+<br>
 ・ [IISF](http://www.iisf.or.jp/)&emsp;(International Information Science Foundation)<br>
 &emsp;「2024年度 研究者海外派遣助成」<br>
 
