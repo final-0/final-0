@@ -84,9 +84,8 @@
 ---
 
 ## <div align="center">Acknowledgment</div>
-[NICT](https://www.nict.go.jp/index.html)&emsp;(National Institute of Information and Communications Technology)<br>
-[採択番号05101](https://www.nict.go.jp/collabo/commission/B5Gsokushin/B5G_05101.html)
-:「日米豪国際連携を通じた超カバレッジBeyond 5G無線通信・映像符号化標準化技術の研究開発」<br>
+- [NICT](https://www.nict.go.jp/index.html)&emsp;(National Institute of Information and Communications Technology)<br>
+&emsp;[採択番号05101](https://www.nict.go.jp/collabo/commission/B5Gsokushin/B5G_05101.html) :「日米豪国際連携を通じた超カバレッジBeyond 5G無線通信・映像符号化標準化技術の研究開発」<br>
 
 ---
 
