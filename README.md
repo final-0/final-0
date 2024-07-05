@@ -79,13 +79,14 @@
 ---
 
 ## <div align="center">Award</div>
-- 早稲田大学 基幹理工学部 情報通信学科 賞
+・ 早稲田大学 基幹理工学部 情報通信学科 賞
 
 ---
 
 ## <div align="center">Acknowledgment</div>
-- [NICT](https://www.nict.go.jp/index.html)&emsp;(National Institute of Information and Communications Technology)<br>
+・ [NICT](https://www.nict.go.jp/index.html)&emsp;(National Institute of Information and Communications Technology)<br>
 &emsp;[採択番号05101](https://www.nict.go.jp/collabo/commission/B5Gsokushin/B5G_05101.html) :「日米豪国際連携を通じた超カバレッジBeyond 5G無線通信・映像符号化標準化技術の研究開発」<br>
+・ [IISF](http://www.iisf.or.jp/)&emsp;(International Information Science Foundation)<br>
 
 ---
 
@@ -96,10 +97,10 @@
 ---
 
 ## <div align="center">Co-Authors</div>
-- (https://github.com/rook86)
-- (https://github.com/nykie738)
-- (https://github.com/th359)
-- (https://github.com/qwert-top)
+・ (https://github.com/rook86)
+・ (https://github.com/nykie738)
+・ (https://github.com/th359)
+・ (https://github.com/qwert-top)
 
   
 <br>
