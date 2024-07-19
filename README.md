@@ -74,6 +74,9 @@
 ・YOLOV を用いた物体予測検出の一検討
 ([IEICE general conf. 2023](https://www.ieice-taikai.jp/2023general/jpn/index.html))<br>
 <br>
+・Cross-Frame Attentionを用いた映像補間モデルの一検討
+([ITE annual conv. 2024](https://www.ite.or.jp/annual/2024/))(発表予定)<br>
+<br>
 
 
 ---
