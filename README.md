@@ -71,7 +71,7 @@
 <br>
 
 ### 2nd author
-・Cross-Frame Attentionを用いた映像補間モデルの一検討
+・Cross-Frame Attention を用いた映像補間モデルの一検討
 ([ITE annual conv. 2024](https://www.ite.or.jp/annual/2024/))(発表予定)<br>
 <br>
 ・YOLOV を用いた物体予測検出の一検討
