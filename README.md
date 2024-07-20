@@ -93,6 +93,12 @@
 ・ [IISF](http://www.iisf.or.jp/)&emsp;(International Information Science Foundation)<br>
 &emsp;「2024年度 研究者海外派遣助成」<br>
 
+
+---
+
+## <div align="center">Experience</div>
+・ 
+
 ---
 
 ## <div align="center">Education</div>
