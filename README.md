@@ -20,7 +20,7 @@
 &emsp;[arXiv](https://arxiv.org/abs/2405.09152) (under review)<br>
 ・Refining Coded Image in Human Vision Layer Using CNN-Based Post-Processing
 ([IEEE GCCE 2024](https://www.ieee-gcce.org/2024/))<br>
-&emsp;[arXiv](https://arxiv.org/abs/2405.11894) (under review)<br>
+&emsp;[arXiv](https://arxiv.org/abs/2405.11894)<br>
 ・Object Detection Method for Drone Videos Using Optical Flow 
 ([IEVC 2024](https://www.iieej.org/en/ievc2024/))<br>
 <br>
@@ -53,10 +53,12 @@
 
 
 ### others
-・Classification in Japanese Sign Language Based on Dynamic Facial Expressions<br>
-&emsp;(under review)<br>
-・Integrating QR Code Characteristics Into Super-Resolution Method<br>
-&emsp;(under review)<br>
+・Classification in Japanese Sign Language Based on Dynamic Facial Expressions
+([IEEE GCCE 2024](https://www.ieee-gcce.org/2024/))<br>
+&emsp;<br>
+・Integrating QR Code Characteristics Into Super-Resolution Method
+([IEEE GCCE 2024](https://www.ieee-gcce.org/2024/))<br>
+&emsp;<br>
 
 ## <div align="center">Achievement (Domestic Conferences, Japan)</div>
 
