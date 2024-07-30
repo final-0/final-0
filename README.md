@@ -18,7 +18,8 @@
 &emsp;[arXiv](https://arxiv.org/abs/2403.04173) <br>
 ・Scalable Image Coding for Humans and Machines Using Feature Fusion Network<br>
 &emsp;[arXiv](https://arxiv.org/abs/2405.09152) (under review)<br>
-・Refining Coded Image in Human Vision Layer Using CNN-Based Post-Processing<br>
+・Refining Coded Image in Human Vision Layer Using CNN-Based Post-Processing
+([IEEE GCCE 2024](https://www.ieee-gcce.org/2024/))<br>
 &emsp;[arXiv](https://arxiv.org/abs/2405.11894) (under review)<br>
 ・Object Detection Method for Drone Videos Using Optical Flow 
 ([IEVC 2024](https://www.iieej.org/en/ievc2024/))<br>
