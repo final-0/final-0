@@ -65,7 +65,7 @@
 
 ### 1st author
 ・画素値の動的変化に基づく動画像表現
-([ITE annual conv. 2024](https://www.ite.or.jp/annual/2024/))(発表予定)<br>
+([ITE annual conv. 2024](https://www.ite.or.jp/annual/2024/))<br>
 <br>
 ・VVC と CNN を組み合わせた YOLO-v7 のための映像符号化手法
 ([IEICE general conf. 2023](https://www.ieice-taikai.jp/2023general/jpn/index.html))<br>
@@ -76,7 +76,7 @@
 
 ### 2nd author
 ・Cross-Frame Attention を用いた映像補間モデルの一検討
-([ITE annual conv. 2024](https://www.ite.or.jp/annual/2024/))(発表予定)<br>
+([ITE annual conv. 2024](https://www.ite.or.jp/annual/2024/))<br>
 <br>
 ・YOLOV を用いた物体予測検出の一検討
 ([IEICE general conf. 2023](https://www.ieice-taikai.jp/2023general/jpn/index.html))<br>
