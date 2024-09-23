@@ -96,6 +96,9 @@
 <br>
 ・ [IISF](http://www.iisf.or.jp/)&emsp;(International Information Science Foundation)<br>
 &emsp;「2024年度 研究者海外派遣助成」<br>
+<br>
+・Waseda University<br>
+&emsp; 「2024年度 大学院生等海外派遣助成」<br>
 
 
 ---
