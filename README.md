@@ -67,8 +67,9 @@
 ## <div align="center">Achievement (Domestic Conferences, Japan)</div>
 
 ### 1st author
-・映像信号の埋め込みにおけるピクセル位置とパッチサイズの影響<br>
+・映像信号の埋め込みにおけるピクセル位置とパッチサイズの影響
 ([PCSJ2024](https://www.pcsj-imps.org/archive/2024.html))(発表予定)<br>
+<br>
 ・画素値の動的変化に基づく動画像表現
 ([ITE annual conv. 2024](https://www.ite.or.jp/annual/2024/))<br>
 <br>
@@ -80,10 +81,12 @@
 <br>
 
 ### 2nd author
-・特徴量差分を用いた視聴と画像認識のための階層画像符号化<br>
+・特徴量差分を用いた視聴と画像認識のための階層画像符号化
 ([PCSJ2024](https://www.pcsj-imps.org/archive/2024.html))(発表予定)<br>
-・空間と時間的一貫性のある動画表現の一検討<br>
+<br>
+・空間と時間的一貫性のある動画表現の一検討
 ([PCSJ2024](https://www.pcsj-imps.org/archive/2024.html))(発表予定)<br>
+<br>
 ・Cross-Frame Attention を用いた映像補間モデルの一検討
 ([ITE annual conv. 2024](https://www.ite.or.jp/annual/2024/))<br>
 <br>
