@@ -15,7 +15,7 @@
 ### 1st author
 ・Image Coding for Machines with Edge Information Learning Using Segment Anything
 ([IEEE ICIP 2024](https://2024.ieeeicip.org/))<br>
-&emsp;[arXiv](https://arxiv.org/abs/2403.04173) <br>
+&emsp;[IEEE Xplore](https://ieeexplore.ieee.org/document/10647785),&emsp;[arXiv](https://arxiv.org/abs/2403.04173) <br>
 ・Scalable Image Coding for Humans and Machines Using Feature Fusion Network
 ([IEEE MMSP 2024](https://attend.ieee.org/mmsp-2024/))<br>
 &emsp;[arXiv](https://arxiv.org/abs/2405.09152) <br>
