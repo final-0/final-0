@@ -132,11 +132,9 @@
 - 早稲田大学大学院 基幹理工学研究科 情報理工・情報通信専攻 / Department of Computer Science and Communications Engineering, Waseda University
   
 ---
-
----
-
 ## <div align="center">Affiliation</div>
-- 早稲田大学大学院 基幹理工学研究科 情報理工・情報通信専攻 / Department of Computer Science and Communications Engineering, Waseda University
+- 早稲田大学大学院 基幹理工学研究科 情報理工・情報通信専攻 / Department of Computer Science and Communications Engineering, Waseda University<br>
+[Advanced Multimedia Lab.](https://www.ams.giti.waseda.ac.jp/), [Multimedia Seminar](https://final-0.github.io/)
   
 ---
 
