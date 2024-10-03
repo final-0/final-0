@@ -27,7 +27,7 @@
 
 - Object Detection Method for Drone Videos Using Optical Flow<br>
 ([IEVC 2024](https://www.iieej.org/en/ievc2024/))
-<br>
+
 
 - Image Coding for Machines with Object Region Learning <br>
 ([IEEE CCNC 2024](https://ccnc2024.ieee-ccnc.org/))
