@@ -130,20 +130,17 @@
 ---
 
 ## <div align="center">Education</div>
-- 浅野高等学校<br>
-
-- 早稲田大学 基幹理工学部 情報通信学科<br>
-
-- 早稲田大学大学院 基幹理工学研究科 情報理工・情報通信専攻<br>
-
+- 浅野高等学校
+- 早稲田大学 基幹理工学部 情報通信学科
+- 早稲田大学大学院 基幹理工学研究科 情報理工・情報通信専攻
+  
 ---
 
 ## <div align="center">Co-Authors</div>
-・ (https://github.com/rook86)
-・ (https://github.com/nykie738)
-・ (https://github.com/th359)
-・ (https://github.com/qwert-top)
-
+- (https://github.com/rook86)
+- (https://github.com/nykie738)
+- (https://github.com/th359)
+- (https://github.com/qwert-top)
   
 <br>
 <!--
