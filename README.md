@@ -13,36 +13,36 @@
 ---
 ## <div align="center">Achievement (International Conferences)</div>
 ### 1st author
-- Image Coding for Machines with Edge Information Learning Using Segment Anything
-([IEEE ICIP 2024](https://2024.ieeeicip.org/))<br>
+- Image Coding for Machines with Edge Information Learning Using Segment Anything<br>
+([IEEE ICIP 2024](https://2024.ieeeicip.org/))
 [IEEE Xplore](https://ieeexplore.ieee.org/document/10647785),&emsp;[arXiv](https://arxiv.org/abs/2403.04173)<br>
 
-- Scalable Image Coding for Humans and Machines Using Feature Fusion Network
-([IEEE MMSP 2024](https://attend.ieee.org/mmsp-2024/))<br>
+- Scalable Image Coding for Humans and Machines Using Feature Fusion Network<br>
+([IEEE MMSP 2024](https://attend.ieee.org/mmsp-2024/))
 [arXiv](https://arxiv.org/abs/2405.09152) <br>
 
-- Refining Coded Image in Human Vision Layer Using CNN-Based Post-Processing
-([IEEE GCCE 2024](https://www.ieee-gcce.org/2024/))<br>
+- Refining Coded Image in Human Vision Layer Using CNN-Based Post-Processing<br>
+([IEEE GCCE 2024](https://www.ieee-gcce.org/2024/))
 [arXiv](https://arxiv.org/abs/2405.11894)<br>
 
-- Object Detection Method for Drone Videos Using Optical Flow 
-([IEVC 2024](https://www.iieej.org/en/ievc2024/))<br>
+- Object Detection Method for Drone Videos Using Optical Flow<br>
+([IEVC 2024](https://www.iieej.org/en/ievc2024/))
 <br>
 
-- Image Coding for Machines with Object Region Learning 
-([IEEE CCNC 2024](https://ccnc2024.ieee-ccnc.org/))<br>
+- Image Coding for Machines with Object Region Learning <br>
+([IEEE CCNC 2024](https://ccnc2024.ieee-ccnc.org/))
 [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10454864),&emsp;[arXiv](https://arxiv.org/abs/2308.13984)<br>
 
-- VVC Extension Scheme for Object Detection Using Contrast Reduction 
-([IEEE GCCE 2023](https://www.ieee-gcce.org/2023/index.html))<br>
+- VVC Extension Scheme for Object Detection Using Contrast Reduction<br>
+([IEEE GCCE 2023](https://www.ieee-gcce.org/2023/index.html))
 [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10315373),&emsp;[arXiv](https://arxiv.org/abs/2305.18782)<br>
 
-- Accuracy Improvement of Object Detection in VVC Coded Video Using YOLO-v7 Features 
-([IEEE IICAIET 2023](http://iicaiet.ieeesabah.org/iicaiet2023.html))<br>
+- Accuracy Improvement of Object Detection in VVC Coded Video Using YOLO-v7 Features<br> 
+([IEEE IICAIET 2023](http://iicaiet.ieeesabah.org/iicaiet2023.html))
 [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10291646),&emsp;[arXiv](https://arxiv.org/abs/2304.00689)<br>
 
-- Super Resolution for QR Code Images 
-([IEEE GCCE 2022](https://www.ieee-gcce.org/2022/))<br>
+- Super Resolution for QR Code Images<br>
+([IEEE GCCE 2022](https://www.ieee-gcce.org/2022/))
 [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10014154)<br>
 
 
