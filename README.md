@@ -15,11 +15,11 @@
 ### 1st author
 - Image Coding for Machines with Edge Information Learning Using Segment Anything<br>
 ([IEEE ICIP 2024](https://2024.ieeeicip.org/))
-[IEEE Xplore](https://ieeexplore.ieee.org/document/10647785),&emsp;[arXiv](https://arxiv.org/abs/2403.04173)<br>
+[IEEE Xplore](https://ieeexplore.ieee.org/document/10647785),&emsp;[arXiv](https://arxiv.org/abs/2403.04173)
 
 - Scalable Image Coding for Humans and Machines Using Feature Fusion Network<br>
 ([IEEE MMSP 2024](https://attend.ieee.org/mmsp-2024/))
-[arXiv](https://arxiv.org/abs/2405.09152) <br>
+[arXiv](https://arxiv.org/abs/2405.09152)
 
 - Refining Coded Image in Human Vision Layer Using CNN-Based Post-Processing<br>
 ([IEEE GCCE 2024](https://www.ieee-gcce.org/2024/))
@@ -77,30 +77,30 @@
 ## <div align="center">Achievement (Domestic Conferences, Japan)</div>
 
 ### 1st author
-- 映像信号の埋め込みにおけるピクセル位置とパッチサイズの影響
-([PCSJ2024](https://www.pcsj-imps.org/archive/2024.html))(発表予定)<br>
+- 映像信号の埋め込みにおけるピクセル位置とパッチサイズの影響<br>
+([PCSJ2024](https://www.pcsj-imps.org/archive/2024.html))(発表予定)
 
-- 画素値の動的変化に基づく動画像表現
-([ITE annual conv. 2024](https://www.ite.or.jp/annual/2024/))<br>
+- 画素値の動的変化に基づく動画像表現<br>
+([ITE annual conv. 2024](https://www.ite.or.jp/annual/2024/))
 
-- VVC と CNN を組み合わせた YOLO-v7 のための映像符号化手法
-([IEICE general conf. 2023](https://www.ieice-taikai.jp/2023general/jpn/index.html))<br>
+- VVC と CNN を組み合わせた YOLO-v7 のための映像符号化手法<br>
+([IEICE general conf. 2023](https://www.ieice-taikai.jp/2023general/jpn/index.html))
 
-- 符号化雑音環境下における物体検出精度の改善手法
-([PCSJ2022](https://www.pcsj-imps.org/archive/2022.html))<br>
+- 符号化雑音環境下における物体検出精度の改善手法<br>
+([PCSJ2022](https://www.pcsj-imps.org/archive/2022.html))
 
 ### 2nd author
-- 特徴量差分を用いた視聴と画像認識のための階層画像符号化
-([PCSJ2024](https://www.pcsj-imps.org/archive/2024.html))(発表予定)<br>
+- 特徴量差分を用いた視聴と画像認識のための階層画像符号化<br>
+([PCSJ2024](https://www.pcsj-imps.org/archive/2024.html))(発表予定)
 
-- 空間と時間的一貫性のある動画表現の一検討
-([PCSJ2024](https://www.pcsj-imps.org/archive/2024.html))(発表予定)<br>
+- 空間と時間的一貫性のある動画表現の一検討<br>
+([PCSJ2024](https://www.pcsj-imps.org/archive/2024.html))(発表予定)
 
-- Cross-Frame Attention を用いた映像補間モデルの一検討
-([ITE annual conv. 2024](https://www.ite.or.jp/annual/2024/))<br>
+- Cross-Frame Attention を用いた映像補間モデルの一検討<br>
+([ITE annual conv. 2024](https://www.ite.or.jp/annual/2024/))
 
-- YOLOV を用いた物体予測検出の一検討
-([IEICE general conf. 2023](https://www.ieice-taikai.jp/2023general/jpn/index.html))<br>
+- YOLOV を用いた物体予測検出の一検討<br>
+([IEICE general conf. 2023](https://www.ieice-taikai.jp/2023general/jpn/index.html))
 
 ---
 
