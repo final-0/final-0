@@ -18,61 +18,61 @@
 [IEEE Xplore](https://ieeexplore.ieee.org/document/10647785), [arXiv](https://arxiv.org/abs/2403.04173)
 
 - Scalable Image Coding for Humans and Machines Using Feature Fusion Network<br>
-([IEEE MMSP 2024](https://attend.ieee.org/mmsp-2024/))
+[ [IEEE MMSP 2024](https://attend.ieee.org/mmsp-2024/) ]
 [arXiv](https://arxiv.org/abs/2405.09152)
 
 - Refining Coded Image in Human Vision Layer Using CNN-Based Post-Processing<br>
-([IEEE GCCE 2024](https://www.ieee-gcce.org/2024/))
+[ [IEEE GCCE 2024](https://www.ieee-gcce.org/2024/) ]
 [arXiv](https://arxiv.org/abs/2405.11894)
 
 - Object Detection Method for Drone Videos Using Optical Flow<br>
-([IEVC 2024](https://www.iieej.org/en/ievc2024/))
+[ [IEVC 2024](https://www.iieej.org/en/ievc2024/) ]
 
 
 - Image Coding for Machines with Object Region Learning <br>
-([IEEE CCNC 2024](https://ccnc2024.ieee-ccnc.org/))
-[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10454864),&emsp;[arXiv](https://arxiv.org/abs/2308.13984)
+[ [IEEE CCNC 2024](https://ccnc2024.ieee-ccnc.org/) ]
+[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10454864), [arXiv](https://arxiv.org/abs/2308.13984)
 
 - VVC Extension Scheme for Object Detection Using Contrast Reduction<br>
-([IEEE GCCE 2023](https://www.ieee-gcce.org/2023/index.html))
-[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10315373),&emsp;[arXiv](https://arxiv.org/abs/2305.18782)
+[ [IEEE GCCE 2023](https://www.ieee-gcce.org/2023/index.html) ]
+[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10315373) [arXiv](https://arxiv.org/abs/2305.18782)
 
 - Accuracy Improvement of Object Detection in VVC Coded Video Using YOLO-v7 Features<br> 
-([IEEE IICAIET 2023](http://iicaiet.ieeesabah.org/iicaiet2023.html))
-[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10291646),&emsp;[arXiv](https://arxiv.org/abs/2304.00689)
+[ [IEEE IICAIET 2023](http://iicaiet.ieeesabah.org/iicaiet2023.html) ]
+[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10291646), [arXiv](https://arxiv.org/abs/2304.00689)
 
 - Super Resolution for QR Code Images<br>
-([IEEE GCCE 2022](https://www.ieee-gcce.org/2022/))
+[ [IEEE GCCE 2022](https://www.ieee-gcce.org/2022/) ]
 [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10014154)
 
 
 ### 2nd author
 - Neural Video Representation for Redundancy Reduction and Consistency Preservation<br>
-(under review)
+[ under review ]
 [arXiv](https://arxiv.org/abs/2409.18497)
 
 - Data Augmentation with 3D-rendered Models for Livestock Recognition Using Drone Footage<br>
-([IEVC 2024](https://www.iieej.org/en/ievc2024/))
+[ [IEVC 2024](https://www.iieej.org/en/ievc2024/) ]
 
 
 - Future Object Detection Using Frame Prediction<br>
-([IEEE GCCE 2023](https://www.ieee-gcce.org/2023/index.html))
+[ [IEEE GCCE 2023](https://www.ieee-gcce.org/2023/index.html) ]
 [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10315434)
 
 - Accuracy Consistency of Object Detection With Contrast Reduction by Pixel Value Limitation<br>
-([IEEE GCCE 2023](https://www.ieee-gcce.org/2023/index.html))
+[ [IEEE GCCE 2023](https://www.ieee-gcce.org/2023/index.html) ]
 [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10315359)
 
 - Novel CNN approach for video prediction based on FitVid<br>
-([IWAIT 2023](https://iwait.online/))
+[ [IWAIT 2023](https://iwait.online/) ]
 
 
 ### others
 - Classification in Japanese Sign Language Based on Dynamic Facial Expressions<br>
-([IEEE GCCE 2024](https://www.ieee-gcce.org/2024/))
+[ [IEEE GCCE 2024](https://www.ieee-gcce.org/2024/) ]
 
 - Integrating QR Code Characteristics Into Super-Resolution Method<br>
-([IEEE GCCE 2024](https://www.ieee-gcce.org/2024/))
+[ [IEEE GCCE 2024](https://www.ieee-gcce.org/2024/) ]
 
 ## <div align="center">Achievement (Domestic Conferences, Japan)</div>
 
