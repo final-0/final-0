@@ -110,10 +110,10 @@
 ---
 
 ## <div align="center">Acknowledgment</div>
-- [NICT](https://www.nict.go.jp/index.html)&emsp;(National Institute of Information and Communications Technology)<br>
+- [NICT](https://www.nict.go.jp/index.html) (National Institute of Information and Communications Technology)<br>
 [ 日米豪国際連携を通じた超カバレッジBeyond 5G無線通信・映像符号化標準化技術の研究開発 ] [採択番号05101](https://www.nict.go.jp/collabo/commission/B5Gsokushin/B5G_05101.html)
 
-- [IISF](http://www.iisf.or.jp/)(International Information Science Foundation)<br>
+- [IISF](http://www.iisf.or.jp/) (International Information Science Foundation)<br>
 [ 2024年度 研究者海外派遣助成 ]
 
 - Waseda University (Center for Science and Engineering)<br>
