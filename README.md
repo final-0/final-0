@@ -35,7 +35,7 @@
 
 - VVC Extension Scheme for Object Detection Using Contrast Reduction<br>
 [ [IEEE GCCE 2023](https://www.ieee-gcce.org/2023/index.html) ]
-[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10315373) [arXiv](https://arxiv.org/abs/2305.18782)
+[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10315373), [arXiv](https://arxiv.org/abs/2305.18782)
 
 - Accuracy Improvement of Object Detection in VVC Coded Video Using YOLO-v7 Features<br> 
 [ [IEEE IICAIET 2023](http://iicaiet.ieeesabah.org/iicaiet2023.html) ]
