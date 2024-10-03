@@ -94,7 +94,7 @@
 [ [PCSJ2024](https://www.pcsj-imps.org/archive/2024.html) ] (発表予定)
 
 - 空間と時間的一貫性のある動画表現の一検討<br>
-[ [PCSJ2024](https://www.pcsj-imps.org/archive/2024.html) ](発表予定)
+[ [PCSJ2024](https://www.pcsj-imps.org/archive/2024.html) ] (発表予定)
 
 - Cross-Frame Attention を用いた映像補間モデルの一検討<br>
 [ [ITE annual conv. 2024](https://www.ite.or.jp/annual/2024/) ]
