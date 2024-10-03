@@ -68,13 +68,11 @@
 
 
 ### others
-- Classification in Japanese Sign Language Based on Dynamic Facial Expressions
+- Classification in Japanese Sign Language Based on Dynamic Facial Expressions<br>
 ([IEEE GCCE 2024](https://www.ieee-gcce.org/2024/))<br>
-<br>
 
-- Integrating QR Code Characteristics Into Super-Resolution Method
+- Integrating QR Code Characteristics Into Super-Resolution Method<br>
 ([IEEE GCCE 2024](https://www.ieee-gcce.org/2024/))<br>
-<br>
 
 ## <div align="center">Achievement (Domestic Conferences, Japan)</div>
 
