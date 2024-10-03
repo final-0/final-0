@@ -128,8 +128,15 @@
 
 ## <div align="center">Education</div>
 - 浅野高等学校
-- 早稲田大学 基幹理工学部 情報通信学科
-- 早稲田大学大学院 基幹理工学研究科 情報理工・情報通信専攻
+- 早稲田大学 基幹理工学部 情報通信学科 / Department of Communications and Computer Engineering, Waseda University
+- 早稲田大学大学院 基幹理工学研究科 情報理工・情報通信専攻 / Department of Computer Science and Communications Engineering, Waseda University
+  
+---
+
+---
+
+## <div align="center">Affiliation</div>
+- 早稲田大学大学院 基幹理工学研究科 情報理工・情報通信専攻 / Department of Computer Science and Communications Engineering, Waseda University
   
 ---
 
