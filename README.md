@@ -67,30 +67,36 @@
 ## <div align="center">Achievement (Domestic Conferences, Japan)</div>
 
 ### 1st author
-・映像信号の埋め込みにおけるピクセル位置とパッチサイズの影響
+- 映像信号の埋め込みにおけるピクセル位置とパッチサイズの影響
 ([PCSJ2024](https://www.pcsj-imps.org/archive/2024.html))(発表予定)<br>
 <br>
-・画素値の動的変化に基づく動画像表現
+
+- 画素値の動的変化に基づく動画像表現
 ([ITE annual conv. 2024](https://www.ite.or.jp/annual/2024/))<br>
 <br>
-・VVC と CNN を組み合わせた YOLO-v7 のための映像符号化手法
+
+- VVC と CNN を組み合わせた YOLO-v7 のための映像符号化手法
 ([IEICE general conf. 2023](https://www.ieice-taikai.jp/2023general/jpn/index.html))<br>
 <br>
-・符号化雑音環境下における物体検出精度の改善手法
+
+- 符号化雑音環境下における物体検出精度の改善手法
 ([PCSJ2022](https://www.pcsj-imps.org/archive/2022.html))<br>
 <br>
 
 ### 2nd author
-・特徴量差分を用いた視聴と画像認識のための階層画像符号化
+- 特徴量差分を用いた視聴と画像認識のための階層画像符号化
 ([PCSJ2024](https://www.pcsj-imps.org/archive/2024.html))(発表予定)<br>
 <br>
-・空間と時間的一貫性のある動画表現の一検討
+
+- 空間と時間的一貫性のある動画表現の一検討
 ([PCSJ2024](https://www.pcsj-imps.org/archive/2024.html))(発表予定)<br>
 <br>
-・Cross-Frame Attention を用いた映像補間モデルの一検討
+
+- Cross-Frame Attention を用いた映像補間モデルの一検討
 ([ITE annual conv. 2024](https://www.ite.or.jp/annual/2024/))<br>
 <br>
-・YOLOV を用いた物体予測検出の一検討
+
+- YOLOV を用いた物体予測検出の一検討
 ([IEICE general conf. 2023](https://www.ieice-taikai.jp/2023general/jpn/index.html))<br>
 <br>
 
@@ -104,28 +110,30 @@
 
 ## <div align="center">Acknowledgment</div>
 - [NICT](https://www.nict.go.jp/index.html)&emsp;(National Institute of Information and Communications Technology)<br>
-&emsp;「日米豪国際連携を通じた超カバレッジBeyond 5G無線通信・映像符号化標準化技術の研究開発」[採択番号05101](https://www.nict.go.jp/collabo/commission/B5Gsokushin/B5G_05101.html)<br>
+「日米豪国際連携を通じた超カバレッジBeyond 5G無線通信・映像符号化標準化技術の研究開発」[採択番号05101](https://www.nict.go.jp/collabo/commission/B5Gsokushin/B5G_05101.html)<br>
 <br>
 
-- [IISF](http://www.iisf.or.jp/)&emsp;(International Information Science Foundation)<br>
-&emsp;「2024年度 研究者海外派遣助成」<br>
+- [IISF](http://www.iisf.or.jp/)(International Information Science Foundation)<br>
+「2024年度 研究者海外派遣助成」<br>
 <br>
 
 - Waseda University (Center for Science and Engineering)<br>
-&emsp; 「2024年度 大学院生等海外派遣助成」[link](https://waseda-research-portal.jp/international/graduate-student/)<br>
+「2024年度 大学院生等海外派遣助成」[link](https://waseda-research-portal.jp/international/graduate-student/)<br>
 
 
 ---
 
 ## <div align="center">Experience</div>
-・[IEEE VCIP 2024](https://www.vcip2024.org/index.html) reviewer
+- [IEEE VCIP 2024](https://www.vcip2024.org/index.html) reviewer
 
 ---
 
 ## <div align="center">Education</div>
-・浅野高等学校<br>
-・早稲田大学 基幹理工学部 情報通信学科<br>
-・早稲田大学大学院 基幹理工学研究科 情報理工・情報通信専攻<br>
+- 浅野高等学校<br>
+
+- 早稲田大学 基幹理工学部 情報通信学科<br>
+
+- 早稲田大学大学院 基幹理工学研究科 情報理工・情報通信専攻<br>
 
 ---
 
