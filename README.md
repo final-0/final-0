@@ -13,46 +13,57 @@
 ---
 ## <div align="center">Achievement (International Conferences)</div>
 ### 1st author
-・Image Coding for Machines with Edge Information Learning Using Segment Anything
+- Image Coding for Machines with Edge Information Learning Using Segment Anything
 ([IEEE ICIP 2024](https://2024.ieeeicip.org/))<br>
-&emsp;[IEEE Xplore](https://ieeexplore.ieee.org/document/10647785),&emsp;[arXiv](https://arxiv.org/abs/2403.04173) <br>
-・Scalable Image Coding for Humans and Machines Using Feature Fusion Network
+[IEEE Xplore](https://ieeexplore.ieee.org/document/10647785),&emsp;[arXiv](https://arxiv.org/abs/2403.04173)<br>
+
+- Scalable Image Coding for Humans and Machines Using Feature Fusion Network
 ([IEEE MMSP 2024](https://attend.ieee.org/mmsp-2024/))<br>
-&emsp;[arXiv](https://arxiv.org/abs/2405.09152) <br>
-・Refining Coded Image in Human Vision Layer Using CNN-Based Post-Processing
+[arXiv](https://arxiv.org/abs/2405.09152) <br>
+
+- Refining Coded Image in Human Vision Layer Using CNN-Based Post-Processing
 ([IEEE GCCE 2024](https://www.ieee-gcce.org/2024/))<br>
-&emsp;[arXiv](https://arxiv.org/abs/2405.11894)<br>
-・Object Detection Method for Drone Videos Using Optical Flow 
+[arXiv](https://arxiv.org/abs/2405.11894)<br>
+
+- Object Detection Method for Drone Videos Using Optical Flow 
 ([IEVC 2024](https://www.iieej.org/en/ievc2024/))<br>
 <br>
-・Image Coding for Machines with Object Region Learning 
+
+- Image Coding for Machines with Object Region Learning 
 ([IEEE CCNC 2024](https://ccnc2024.ieee-ccnc.org/))<br>
-&emsp;[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10454864),&emsp;[arXiv](https://arxiv.org/abs/2308.13984)<br>
-・VVC Extension Scheme for Object Detection Using Contrast Reduction 
+[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10454864),&emsp;[arXiv](https://arxiv.org/abs/2308.13984)<br>
+
+- VVC Extension Scheme for Object Detection Using Contrast Reduction 
 ([IEEE GCCE 2023](https://www.ieee-gcce.org/2023/index.html))<br>
-&emsp;[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10315373),&emsp;[arXiv](https://arxiv.org/abs/2305.18782)<br>
-・Accuracy Improvement of Object Detection in VVC Coded Video Using YOLO-v7 Features 
+[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10315373),&emsp;[arXiv](https://arxiv.org/abs/2305.18782)<br>
+
+- Accuracy Improvement of Object Detection in VVC Coded Video Using YOLO-v7 Features 
 ([IEEE IICAIET 2023](http://iicaiet.ieeesabah.org/iicaiet2023.html))<br>
-&emsp;[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10291646),&emsp;[arXiv](https://arxiv.org/abs/2304.00689)<br>
-・Super Resolution for QR Code Images 
+[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10291646),&emsp;[arXiv](https://arxiv.org/abs/2304.00689)<br>
+
+- Super Resolution for QR Code Images 
 ([IEEE GCCE 2022](https://www.ieee-gcce.org/2022/))<br>
-&emsp;[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10014154)<br>
+[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10014154)<br>
 
 
 ### 2nd author
-・Neural Video Representation for Redundancy Reduction and Consistency Preservation
- (under review)<br>
- &emsp;[arXiv](https://arxiv.org/abs/2409.18497)<br>
-・Data Augmentation with 3D-rendered Models for Livestock Recognition Using Drone Footage
+- Neural Video Representation for Redundancy Reduction and Consistency Preservation
+(under review)<br>
+[arXiv](https://arxiv.org/abs/2409.18497)<br>
+
+- Data Augmentation with 3D-rendered Models for Livestock Recognition Using Drone Footage
 ([IEVC 2024](https://www.iieej.org/en/ievc2024/))<br>
 <br>
-・Future Object Detection Using Frame Prediction
+
+- Future Object Detection Using Frame Prediction
 ([IEEE GCCE 2023](https://www.ieee-gcce.org/2023/index.html))<br>
-&emsp;[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10315434)<br>
-・Accuracy Consistency of Object Detection With Contrast Reduction by Pixel Value Limitation
+[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10315434)<br>
+
+- Accuracy Consistency of Object Detection With Contrast Reduction by Pixel Value Limitation
 ([IEEE GCCE 2023](https://www.ieee-gcce.org/2023/index.html))<br>
-&emsp;[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10315359)<br>
-・Novel CNN approach for video prediction based on FitVid
+[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10315359)<br>
+
+- Novel CNN approach for video prediction based on FitVid
 ([IWAIT 2023](https://iwait.online/))<br>
 
 
