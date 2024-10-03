@@ -6,9 +6,9 @@
 
 </div>
 
-&emsp; Image Recognition &emsp;:&emsp; Object Detection, Segmentation<br>
-&emsp; Image Generation &emsp;:&emsp; Supre Resolution, Denoising<br>
-&emsp; Image/Video Coding for Hmans and Machines<br>
+- Image Recognition : Object Detection, Segmentation<br>
+- Image Generation : Supre Resolution, Denoising<br>
+- Image/Video Coding for Humans and Machines<br>
 
 ---
 ## <div align="center">Achievement (International Conferences)</div>
