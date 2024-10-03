@@ -14,8 +14,8 @@
 ## <div align="center">Achievement (International Conferences)</div>
 ### 1st author
 - Image Coding for Machines with Edge Information Learning Using Segment Anything<br>
-[[IEEE ICIP 2024](https://2024.ieeeicip.org/)]
-[[IEEE Xplore](https://ieeexplore.ieee.org/document/10647785)|[arXiv](https://arxiv.org/abs/2403.04173)]
+[ [IEEE ICIP 2024](https://2024.ieeeicip.org/) ]
+[ [IEEE Xplore](https://ieeexplore.ieee.org/document/10647785) | [arXiv](https://arxiv.org/abs/2403.04173) ]
 
 - Scalable Image Coding for Humans and Machines Using Feature Fusion Network<br>
 ([IEEE MMSP 2024](https://attend.ieee.org/mmsp-2024/))
