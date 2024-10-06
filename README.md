@@ -139,7 +139,7 @@
 [ [Multimedia Seminar](https://final-0.github.io/) ]
 
 - 2025/04-<br>
-SONY (Incoming engineer)
+SONY (Incoming AI engineer)
   
 ---
 
