@@ -124,8 +124,8 @@
 ---
 
 ## <div align="center">Experience</div>
-- Internship: AI Engineer at SONY (Aug. 2023 - Sep. 2023)
-- Internship: AI Researcher at SONY (Feb. 2024 - Mar. 2024)
+- Internship: AI Engineer at [SONY](https://www.sony.com/en/) (Aug. 2023 - Sep. 2023)
+- Internship: AI Researcher at [SONY](https://www.sony.com/en/) (Feb. 2024 - Mar. 2024)
 - [IEEE VCIP 2024](https://www.vcip2024.org/index.html) reviewer
 
 ---
