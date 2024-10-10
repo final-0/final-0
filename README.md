@@ -125,14 +125,18 @@
 
 ## <div align="center">Experience</div>
 - Internship: AI engineer at [SONY](https://www.sony.com/en/) (Aug. 2023 - Sep. 2023)
+   
 - Internship: AI researcher at [SONY](https://www.sony.com/en/) (Feb. 2024 - Mar. 2024)
+
 - [IEEE VCIP 2024](https://www.vcip2024.org/index.html) reviewer
 
 ---
 
 ## <div align="center">Education</div>
 - 浅野高等学校
+  
 - 早稲田大学 基幹理工学部 情報通信学科 / Department of Communications and Computer Engineering, Waseda University
+  
 - 早稲田大学大学院 基幹理工学研究科 情報理工・情報通信専攻 / Department of Computer Science and Communications Engineering, Waseda University
   
 ---
