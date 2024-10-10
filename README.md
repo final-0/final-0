@@ -118,8 +118,8 @@
 - [IISF](http://www.iisf.or.jp/) (International Information Science Foundation)<br>
 [ 2024年度 研究者海外派遣助成 ]
 
-- Waseda University (Center for Science and Engineering)<br>
-[ 2024年度 大学院生等海外派遣助成 ] [link](https://waseda-research-portal.jp/international/graduate-student/)
+- [Waseda University](https://waseda-research-portal.jp/international/graduate-student/) (Center for Science and Engineering)<br>
+[ 2024年度 大学院生等海外派遣助成 ]
 
 ---
 
