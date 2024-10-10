@@ -107,7 +107,7 @@
 ---
 
 ## <div align="center">Award</div>
-- 早稲田大学 基幹理工学部 情報通信学科 賞 / Department of Information and Communication Sciences Award (2023/03)<br>
+- 早稲田大学 基幹理工学部 情報通信学科 賞 / Department of Information and Communication Sciences Award (Mar. 2023)<br>
 
 ---
 
