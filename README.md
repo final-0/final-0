@@ -15,6 +15,8 @@
 ### 1st author
 - Delta-ICM: Entropy Modeling with Delta Function for Learned Image Compression<br>
 [ under review]
+[arXiv](https://arxiv.org/abs/2410.07669)
+
 - Image Coding for Machines with Edge Information Learning Using Segment Anything<br>
 [ [IEEE ICIP 2024](https://2024.ieeeicip.org/) ]
 [IEEE Xplore](https://ieeexplore.ieee.org/document/10647785), [arXiv](https://arxiv.org/abs/2403.04173)
