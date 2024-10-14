@@ -2,8 +2,8 @@
 
 <div align="center">
   
-[[Google Scholar](https://scholar.google.com/citations?user=14XgxpcAAAAJ)]&emsp;[[Semantic Scholar](https://www.semanticscholar.org/author/Takahiro-Shindo/153439569?sort=total-citations)]&emsp;[[ORCID](https://orcid.org/0009-0003-9202-4594)]&emsp;[[Linkedin](https://www.linkedin.com/in/takahiro-shindo-222277318/)]<br>
-[[Homepage](https://final-0.github.io/)]<br>
+[[Google Scholar](https://scholar.google.com/citations?user=14XgxpcAAAAJ)]&emsp;[[ORCID](https://orcid.org/0009-0003-9202-4594)]&emsp;[[Linkedin](https://www.linkedin.com/in/takahiro-shindo-222277318/)]&emsp;[[Semantic Scholar](https://www.semanticscholar.org/author/Takahiro-Shindo/153439569?sort=total-citations)]<br>
+[[website](https://final-0.github.io/)]<br>
 
 </div>
 
