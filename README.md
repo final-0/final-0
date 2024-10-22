@@ -13,6 +13,10 @@
 - Image/Video Coding for Humans and Machines<br>
 
 ---
+## <div align="center">Contact</div>
+- taka_s0265@ruri.waseda.jp
+
+---
 ## <div align="center">Achievement (International Conferences)</div>
 ### 1st author
 - Delta-ICM: Entropy Modeling with Delta Function for Learned Image Compression<br>
