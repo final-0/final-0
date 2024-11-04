@@ -20,7 +20,7 @@
 ## <div align="center">Achievement (International Conferences)</div>
 ### 1st author
 - Delta-ICM: Entropy Modeling with Delta Function for Learned Image Compression<br>
-[ under review]
+[ [IEEE ICCE 2025](https://icce.org/2025/) ]
 [arXiv](https://arxiv.org/abs/2410.07669)
 
 - Image Coding for Machines with Edge Information Learning Using Segment Anything<br>
@@ -58,7 +58,7 @@
 
 ### 2nd author
 - Neural Video Representation for Redundancy Reduction and Consistency Preservation<br>
-[ under review ]
+[ [IEEE ICCE 2025](https://icce.org/2025/) ]
 [arXiv](https://arxiv.org/abs/2409.18497)
 
 - Data Augmentation with 3D-rendered Models for Livestock Recognition Using Drone Footage<br>
