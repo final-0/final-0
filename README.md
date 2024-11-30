@@ -115,6 +115,7 @@
 ---
 
 ## <div align="center">Award</div>
+- PCSJ 2024 Best Poster Award (Dec. 2024)<br>
 - IEEE GCCE 2024 Presentation Awards (Nov. 2024)<br>
 - 早稲田大学 基幹理工学部 情報通信学科 賞 / Department of Information and Communication Sciences Award (Mar. 2023)<br>
 
