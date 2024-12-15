@@ -91,7 +91,7 @@
 [ [IPSJ2025](https://www.ipsj.or.jp/event/taikai/87/index.html) ]
 
 - ICM手法のプライバシー保護における有効性の検証<br>
-[ [PCSJ2024](https://www.pcsj-imps.org/archive/2024.html) ] (発表予定)
+[ [PCSJ2024](https://www.pcsj-imps.org/archive/2024.html) ]
 
 - 画素値の動的変化に基づく動画像表現<br>
 [ [ITE annual conv. 2024](https://www.ite.or.jp/annual/2024/) ]
