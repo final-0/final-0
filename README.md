@@ -87,6 +87,9 @@
 ## <div align="center">Achievement (Domestic Conferences, Japan)</div>
 
 ### 1st author
+- 機械のための復号画像における顔認証精度の評価<br>
+[ [IPSJ2025](https://www.ipsj.or.jp/event/taikai/87/index.html) ]
+
 - ICM手法のプライバシー保護における有効性の検証<br>
 [ [PCSJ2024](https://www.pcsj-imps.org/archive/2024.html) ] (発表予定)
 
@@ -100,11 +103,14 @@
 [ [PCSJ2022](https://www.pcsj-imps.org/archive/2022.html) ]
 
 ### 2nd author
+- 事前学習済みの拡散モデルを使用したフレーム補間<br>
+[ [IPSJ2025](https://www.ipsj.or.jp/event/taikai/87/index.html) ]
+
 - 特徴量差分を用いた視聴と画像認識のための階層画像符号化<br>
-[ [PCSJ2024](https://www.pcsj-imps.org/archive/2024.html) ] (発表予定)
+[ [PCSJ2024](https://www.pcsj-imps.org/archive/2024.html) ]
 
 - 空間と時間的一貫性のある動画表現の一検討<br>
-[ [PCSJ2024](https://www.pcsj-imps.org/archive/2024.html) ] (発表予定)
+[ [PCSJ2024](https://www.pcsj-imps.org/archive/2024.html) ]
 
 - Cross-Frame Attention を用いた映像補間モデルの一検討<br>
 [ [ITE annual conv. 2024](https://www.ite.or.jp/annual/2024/) ]
