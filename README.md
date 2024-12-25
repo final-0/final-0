@@ -145,6 +145,8 @@
 - Internship: AI researcher at [SONY](https://www.sony.com/en/) (Feb. 2024 - Mar. 2024)
 
 - [IEEE VCIP 2024](https://www.vcip2024.org/index.html) reviewer
+  
+- [IEEE ICME 2025](https://2025.ieeeicme.org/) reviewer
 
 ---
 
