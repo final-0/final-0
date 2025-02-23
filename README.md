@@ -121,7 +121,7 @@
 ---
 
 ## <div align="center">Award</div>
-- 早稲田大学 基幹理工学研究科 情報理工・情報通信専攻賞 (Mar. 2025)<br>
+- 早稲田大学 基幹理工学研究科 情報理工・情報通信専攻 賞 (Mar. 2025)<br>
 - PCSJ 2024 Best Poster Award (Dec. 2024)<br>
 - IEEE GCCE 2024 Presentation Award (Nov. 2024)<br>
 - 早稲田大学 基幹理工学部 情報通信学科 賞 / Department of Information and Communication Sciences Award (Mar. 2023)<br>
