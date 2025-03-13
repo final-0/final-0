@@ -20,6 +20,9 @@
 ## <div align="center">Achievement (International Conferences)</div>
 ### 1st author
 
+-  Image Coding for Object Recognition Tasks Based on Contour Feature Learning with Flexible Object Selection<br>
+[under review]
+
 - Guided Diffusion for the Extension of Machine Vision to Human Visual Perception<br>
 [under review]
 
