@@ -19,6 +19,9 @@
 ---
 ## <div align="center">Achievement (International Conferences)</div>
 ### 1st author
+-Guided Diffusion for the Extension of Machine Vision to Human Visual Perception<br>
+[under review]
+
 - Delta-ICM: Entropy Modeling with Delta Function for Learned Image Compression<br>
 [ [IEEE ICCE 2025](https://icce.org/2025/) ]
 [arXiv](https://arxiv.org/abs/2410.07669)
