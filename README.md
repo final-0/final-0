@@ -20,7 +20,7 @@
 ## <div align="center">Achievement (International Conferences)</div>
 ### 1st author
 
--Guided Diffusion for the Extension of Machine Vision to Human Visual Perception<br>
+- Guided Diffusion for the Extension of Machine Vision to Human Visual Perception<br>
 [under review]
 
 - Delta-ICM: Entropy Modeling with Delta Function for Learned Image Compression<br>
