@@ -4,17 +4,31 @@
   
 [[Google Scholar](https://scholar.google.com/citations?user=14XgxpcAAAAJ)]&emsp;[[Linkedin](https://www.linkedin.com/in/takahiro-shindo-222277318/)]&emsp;[[ORCID](https://orcid.org/0009-0003-9202-4594)]&emsp;[[Semantic Scholar](https://www.semanticscholar.org/author/Takahiro-Shindo/153439569?sort=total-citations)]<br>
 <br>
-<b>-- [[ Website ](https://final-0.github.io/)] --</b><br>
+<b>-- [[[ Website ](https://final-0.github.io/)]] --</b><br>
 
 </div>
 
-- Image Recognition : Object Detection, Segmentation<br>
-- Image Generation : Supre Resolution, Denoising<br>
-- Image/Video Coding for Humans and Machines<br>
+## <div align="center">Experience</div>
+- AI engineer ad [SONY](https://www.sony.com/en/)
 
----
-## <div align="center">Contact</div>
-- taka_s0265@ruri.waseda.jp
+- 早稲田大学 情報理工・情報通信 専攻 代表 (Mar. 2025)
+ 
+- Internship: AI engineer at [SONY](https://www.sony.com/en/) (Aug. 2023 - Sep. 2023)
+   
+- Internship: AI researcher at [SONY](https://www.sony.com/en/) (Feb. 2024 - Mar. 2024)
+
+- NICT 委託研究 (Sep. 2022 - Mar. 2025)
+
+- IEEE ICASSP reviewer
+
+- IEEE VCIP reviewer
+  
+- IEEE ICME reviewer
+
+- IEEE ICIP reviewer
+
+
+
 
 ---
 ## <div align="center">Achievement (International Conferences)</div>
@@ -144,22 +158,6 @@
 
 - [Waseda University](https://waseda-research-portal.jp/international/graduate-student/) (Center for Science and Engineering)<br>
 [ 2024年度 大学院生等海外派遣助成 ]
-
----
-
-## <div align="center">Experience</div>
-- Internship: AI engineer at [SONY](https://www.sony.com/en/) (Aug. 2023 - Sep. 2023)
-   
-- Internship: AI researcher at [SONY](https://www.sony.com/en/) (Feb. 2024 - Mar. 2024)
-
-- IEEE ICASSP reviewer
-
-- IEEE VCIP reviewer
-  
-- IEEE ICME reviewer
-
-- IEEE ICIP reviewer
-
   
 
 ---
@@ -171,23 +169,11 @@
   
 - 早稲田大学大学院 基幹理工学研究科 情報理工・情報通信専攻 / Department of Computer Science and Communications Engineering, Waseda University
   
----
-## <div align="center">Affiliation</div>
-- 2023/04-2025/03<br>
-早稲田大学大学院 基幹理工学研究科 情報理工・情報通信専攻 / Department of Computer Science and Communications Engineering, Waseda University<br>
-[ [Advanced Multimedia Systems Lab.](https://www.ams.giti.waseda.ac.jp/) ]<br>
-[ [Multimedia Seminar](https://final-0.github.io/multimedia/) ]
 
-- 2025/04-<br>
-SONY (Incoming AI engineer)
-  
 ---
+## <div align="center">Contact</div>
+- taka_s0265@ruri.waseda.jp
 
-## <div align="center">Co-Authors</div>
-- (https://github.com/rook86)
-- (https://github.com/nykie738)
-- (https://github.com/th359)
-- (https://github.com/qwert-top)
   
 <br>
 <!--
