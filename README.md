@@ -13,10 +13,10 @@
 - AI engineer ad [SONY](https://www.sony.com/en/)
 
 - 早稲田大学 情報理工・情報通信 専攻 代表 (Mar. 2025)
- 
-- Internship: AI engineer at [SONY](https://www.sony.com/en/) (Aug. 2023 - Sep. 2023)
    
 - Internship: AI researcher at [SONY](https://www.sony.com/en/) (Feb. 2024 - Mar. 2024)
+
+- Internship: AI engineer at [SONY](https://www.sony.com/en/) (Aug. 2023 - Sep. 2023)
 
 - NICT 委託研究 (Sep. 2022 - Mar. 2025)
 
