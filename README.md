@@ -8,6 +8,7 @@
 
 </div>
 
+---
 ## <div align="center">Experience</div>
 - AI engineer ad [SONY](https://www.sony.com/en/)
 
