@@ -10,7 +10,7 @@
 
 ---
 ## <div align="center">Experience</div>
-- AI engineer at [SONY](https://www.sony.com/en/)　(Apr. 2025-)
+- AI engineer at [SONY](https://www.sony.com/en/)(Apr. 2025-)
 
 - 早稲田大学 情報理工・情報通信 専攻 代表 (Mar. 2025)
    
