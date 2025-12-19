@@ -20,13 +20,13 @@
 
 - NICT 委託研究 (Sep. 2022 - Mar. 2025)
 
-- IEEE ICASSP reviewer
+- IEEE ICASSP reviewer (signal processing)
 
-- IEEE VCIP reviewer
+- IEEE VCIP reviewer (signal processing)
   
-- IEEE ICME reviewer
+- IEEE ICME reviewer (multi media)
 
-- IEEE ICIP reviewer
+- IEEE ICIP reviewer (signal processing)
 
 
 
