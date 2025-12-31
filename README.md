@@ -20,7 +20,7 @@
 
 - NICT 委託研究 (Sep. 2022 - Mar. 2025)
 
-- IEEE TCSVT reviewer (IEEE Transactions on Circuits and Systems for Video Technology)
+- IEEE TCSVT reviewer (Transactions on Circuits and Systems for Video Technology)
 
 - IEEE ICASSP reviewer (signal processing)
 
