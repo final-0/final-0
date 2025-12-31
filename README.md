@@ -22,13 +22,13 @@
 
 - IEEE TCSVT reviewer (Transactions on Circuits and Systems for Video Technology)
 
-- IEEE ICASSP reviewer (signal processing)
+- IEEE ICASSP reviewer (International Conference on Acoustics, Speech, and Signal Processing)
 
-- IEEE VCIP reviewer (signal processing)
+- IEEE VCIP reviewer ()
   
-- IEEE ICME reviewer (multi media)
+- IEEE ICME reviewer ()
 
-- IEEE ICIP reviewer (signal processing)
+- IEEE ICIP reviewer (International Conference on Image Processing)
 
 
 
