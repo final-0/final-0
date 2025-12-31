@@ -24,9 +24,9 @@
 
 - IEEE ICASSP reviewer (International Conference on Acoustics, Speech, and Signal Processing)
 
-- IEEE VCIP reviewer ()
+- IEEE VCIP reviewer (International Conference on Visual Communications and Image Processing)
   
-- IEEE ICME reviewer ()
+- IEEE ICME reviewer (International Conference on Multimedia Expo)
 
 - IEEE ICIP reviewer (International Conference on Image Processing)
 
